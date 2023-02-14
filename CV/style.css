@@ -1,5 +1,5 @@
 body {
-	background-color: #fbf8f8;
+	background-color: #dbdddd;
 	font-family: Georgia, serif;
 }
 
@@ -9,15 +9,16 @@ body {
 	margin-right: 30px;
 }
 .CV {
-	padding: 10px 20px 10px 50px;
+	padding: 5px 20px 5px 50px;
 	width: 690px;
 	margin-left: auto;
 	margin-right: auto;
 	border: 1px solid black;
-	background-color: #f8fbfb;
+	background-color: #f6f6f6;
 }
 h1 {
 	font-size: 37px;
+	margin-bottom: 15px;
 }
 .position {
 	font-size: 28px;
@@ -31,11 +32,12 @@ h1 {
 }
 h2 {
 	font-size: 25px;
+	margin-top: 0;
 	margin-bottom: 0;
 }
 .hardskills {
 	margin-top: 0;
-	font-size: 18px;
+	font-size: 17px;
 }
 ul {
 	margin-top: 10px;
